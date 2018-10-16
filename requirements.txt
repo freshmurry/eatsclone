@@ -3,4 +3,4 @@ gunicorn==19.6.0
 Pillow==5.3.0
 whitenoise==4.1
 dj-database-url==0.5.0
-psycopg==2.6.2
+psycopg==2.7.5
